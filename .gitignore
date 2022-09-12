@@ -28,5 +28,8 @@ hs_err_pid*
 .idea
 *.iml
 *.kotlin_module
-
+.classpath
+.project
+.settings
+target
 
